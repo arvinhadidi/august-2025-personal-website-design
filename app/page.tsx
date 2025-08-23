@@ -26,9 +26,9 @@ export default function HomePage() {
     {
       title: "Tailored, Real Advice",
       description:
-        "Personalized guidance that addresses your specific challenges and goals. No generic solutions - every recommendation is crafted to fit your unique situation and objectives.",
+        "Guidance that addresses your specific challenges and goals. Adapting fundamental methods to create a specialised solution for you, and only you.",
       icon: (
-        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" className="text-accent">
+        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" className="text-blue-900">
           <path
             d="M3 17L9 11L13 15L21 7"
             stroke="currentColor"
@@ -43,9 +43,9 @@ export default function HomePage() {
     {
       title: "Experience",
       description:
-        "Years of hands-on experience across diverse projects and industries. I bring practical insights gained from real-world challenges and proven strategies that deliver results.",
+        "Years of hands-on experience across many levels of the UK education system. Having been mentored by people from The Times and tutoring students from years 4-11, I know how to teach and learn! I bring insights that deliver results, built from tackling real-world challenges.",
       icon: (
-        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" className="text-accent">
+        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" className="text-blue-900">
           <path
             d="M20 6L9 17L4 12"
             stroke="currentColor"
@@ -59,67 +59,11 @@ export default function HomePage() {
     {
       title: "Knowledge & Connections",
       description:
-        "Deep industry knowledge combined with a valuable network of professionals. Access to cutting-edge insights and strategic connections that can accelerate your success.",
+        "I regularly attend networking events with people from very varied backgrounds. Being in the heart of London I have built a vast network of top minds and characters. With the mentorship will come access to this network; if you need specialist advice, chances are I know someone for it!",
       icon: (
-        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" className="text-accent">
+        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" className="text-blue-900">
           <path
-            d="M12 5a3 3 0 1 0-5.997.125 4 4 0 0 0-2.526 5.77 4 4 0 0 0 .556 6.588A4 4 0 1 0 12 18Z"
-            stroke="currentColor"
-            strokeWidth="2"
-            strokeLinecap="round"
-            strokeLinejoin="round"
-          />
-          <path
-            d="M12 5a3 3 0 1 1 5.997.125 4 4 0 0 1 2.526 5.77 4 4 0 0 1-.556 6.588A4 4 0 1 1 12 18Z"
-            stroke="currentColor"
-            strokeWidth="2"
-            strokeLinecap="round"
-            strokeLinejoin="round"
-          />
-          <path
-            d="M15 13a4.5 4.5 0 0 1-3-4 4.5 4.5 0 0 1-3 4"
-            stroke="currentColor"
-            strokeWidth="2"
-            strokeLinecap="round"
-            strokeLinejoin="round"
-          />
-          <path
-            d="M17.599 6.5a3 3 0 0 0 .399-1.375"
-            stroke="currentColor"
-            strokeWidth="2"
-            strokeLinecap="round"
-            strokeLinejoin="round"
-          />
-          <path
-            d="M6.003 5.125A3 3 0 0 0 6.401 6.5"
-            stroke="currentColor"
-            strokeWidth="2"
-            strokeLinecap="round"
-            strokeLinejoin="round"
-          />
-          <path
-            d="M3.477 10.896a4 4 0 0 1 .585-.396"
-            stroke="currentColor"
-            strokeWidth="2"
-            strokeLinecap="round"
-            strokeLinejoin="round"
-          />
-          <path
-            d="M19.938 10.5a4 4 0 0 1 .585.396"
-            stroke="currentColor"
-            strokeWidth="2"
-            strokeLinecap="round"
-            strokeLinejoin="round"
-          />
-          <path
-            d="M6 15a3.5 3.5 0 0 0 4 0"
-            stroke="currentColor"
-            strokeWidth="2"
-            strokeLinecap="round"
-            strokeLinejoin="round"
-          />
-          <path
-            d="M14 15a3.5 3.5 0 0 0 4 0"
+            d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"
             stroke="currentColor"
             strokeWidth="2"
             strokeLinecap="round"
@@ -131,9 +75,9 @@ export default function HomePage() {
     {
       title: "Academic Excellence",
       description:
-        "Strong academic foundation with proven track record of excellence. Combining theoretical knowledge with practical application to deliver comprehensive solutions.",
+        "With 9s across the board in GCSEs and A*A*A*A at A-Level, I know what it takes to smash it in the exam hall. Right now I am on track for a 1st class degree at King's College London for Computer Science. I am a firm believer that having a comprehensive understanding of a subject is the one and only key to true success.",
       icon: (
-        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" className="text-accent">
+        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" className="text-blue-900">
           <path
             d="M22 10v6M2 10l10-5 10 5-10 5z"
             stroke="currentColor"
@@ -154,9 +98,9 @@ export default function HomePage() {
     {
       title: "Reliability & Empathy",
       description:
-        "Consistent, dependable service paired with genuine understanding of your needs. I listen carefully and respond with both professionalism and human connection.",
+        "I have been in your shoes before - I know how difficult some parts of the journey is. Our success will not be measure by just numbers - but simply by progress. ",
       icon: (
-        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" className="text-accent">
+        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" className="text-blue-900">
           <path
             d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"
             stroke="currentColor"
@@ -173,9 +117,9 @@ export default function HomePage() {
     {
       title: "Commitment",
       description:
-        "Dedication to the process and willingness to put in the effort required. Success comes from consistent action and following through on our agreed plan.",
+        "Dedication to the process and willingness to put in the effort required. Success comes from consistent action - I am here to guide you but it is all still in your hands.",
       icon: (
-        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" className="text-accent">
+        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" className="text-blue-900">
           <path
             d="M16 21v-2a4 4 0 0 0-4-4H6a4 4 0 0 0-4 4v2"
             stroke="currentColor"
@@ -204,9 +148,9 @@ export default function HomePage() {
     {
       title: "A Clear Plan",
       description:
-        "Well-defined goals and expectations from the start. The clearer your vision, the better I can help you achieve it with targeted strategies.",
+        "Well-defined goals from the start. The clearer your vision, the better I can help you achieve it with targeted strategies.",
       icon: (
-        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" className="text-accent">
+        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" className="text-blue-900">
           <path d="M5 12h14" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
           <path d="M12 5l7 7-7 7" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" />
         </svg>
@@ -215,9 +159,9 @@ export default function HomePage() {
     {
       title: "Be Yourself",
       description:
-        "Authenticity and openness in our collaboration. The more genuine you are about your challenges and aspirations, the better I can support you.",
+        "A risk of career acceleration is losing who you are. I want my mentees to excel on a personal, academic and professional level. This is done by honesty and speaking on a human level about what is happening.",
       icon: (
-        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" className="text-accent">
+        <svg width="32" height="32" viewBox="0 0 24 24" fill="none" className="text-blue-900">
           <circle cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="2" />
           <path
             d="M8 14s1.5 2 4 2 4-2 4-2"
@@ -394,7 +338,7 @@ export default function HomePage() {
 
   return (
     <main className="min-h-screen bg-background">
-      <header className="fixed top-0 left-0 right-0 z-50 bg-accent backdrop-blur-sm border-b border-accent">
+      <header className="fixed top-0 left-0 right-0 z-50 bg-blue-900 backdrop-blur-sm border-b border-blue-900">
         <div className="max-w-6xl mx-auto px-6 py-4">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-4">
@@ -408,6 +352,17 @@ export default function HomePage() {
               >
                 <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" className="text-white">
                   <path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z" />
+                </svg>
+              </a>
+              <a
+                href="https://github.com/arvinhadidi"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="opacity-70 hover:opacity-100 transition-opacity duration-200"
+                aria-label="GitHub Profile"
+              >
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" className="text-white">
+                  <path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z" />
                 </svg>
               </a>
             </div>
@@ -441,10 +396,11 @@ export default function HomePage() {
             <h2 className="font-serif font-bold text-4xl md:text-5xl text-foreground mb-8 text-center">About Me</h2>
             <Card className="bg-card border-border">
               <CardContent className="p-8 md:p-12">
-                <p className="font-sans text-lg md:text-xl leading-relaxed text-card-foreground">
-                  This is where you'll write your compelling personal story. Share your background, experience, and what
-                  drives you professionally. Make it engaging and authentic to connect with your audience. You can
-                  discuss your journey, values, and what makes you unique in your field.
+                <p className="font-sans text-lg md:text-xl leading-relaxed text-card-foreground text-center">
+                  My name is Arvin and I describe myself as someone who is always eager to seek and take opportunities.
+                  I am a 2nd year Computer Science student at King's College London. Over the last year especially, I
+                  have learnt a lot of valuable things about academics, networking, entrepreneurship and more. My goal
+                  is to share information like this with those who have the potential to excel.
                 </p>
               </CardContent>
             </Card>
@@ -496,7 +452,7 @@ export default function HomePage() {
                     onClick={() => setCurrentIndex(index)}
                   >
                     <CardContent className="p-8 h-full flex flex-col justify-center">
-                      <h3 className="font-serif font-bold text-2xl text-accent mb-4 text-center">{item.title}</h3>
+                      <h3 className="font-serif font-bold text-2xl text-blue-900 mb-4 text-center">{item.title}</h3>
                       <p className="font-sans text-base leading-relaxed text-card-foreground text-center mb-6">
                         {item.description}
                       </p>
@@ -527,7 +483,7 @@ export default function HomePage() {
                 <button
                   key={index}
                   className={`w-3 h-3 rounded-full transition-all duration-300 ${
-                    index === currentIndex ? "bg-accent" : "bg-muted-foreground/30"
+                    index === currentIndex ? "bg-blue-900" : "bg-muted-foreground/30"
                   }`}
                   onClick={() => setCurrentIndex(index)}
                 />
@@ -553,7 +509,7 @@ export default function HomePage() {
                     onClick={() => setCurrentNeedIndex(index)}
                   >
                     <CardContent className="p-8 h-full flex flex-col justify-center">
-                      <h3 className="font-serif font-bold text-2xl text-accent mb-4 text-center">{item.title}</h3>
+                      <h3 className="font-serif font-bold text-2xl text-blue-900 mb-4 text-center">{item.title}</h3>
                       <p className="font-sans text-base leading-relaxed text-card-foreground text-center mb-6">
                         {item.description}
                       </p>
@@ -584,7 +540,7 @@ export default function HomePage() {
                 <button
                   key={index}
                   className={`w-3 h-3 rounded-full transition-all duration-300 ${
-                    index === currentNeedIndex ? "bg-accent" : "bg-muted-foreground/30"
+                    index === currentNeedIndex ? "bg-blue-900" : "bg-muted-foreground/30"
                   }`}
                   onClick={() => setCurrentNeedIndex(index)}
                 />
@@ -594,19 +550,20 @@ export default function HomePage() {
         </div>
       </section>
 
-      <section className="py-8 px-6">
-        <div className="max-w-4xl mx-auto">
+      <section className="py-16 px-6">
+        <div className="max-w-6xl mx-auto">
           <div className="animate-on-scroll opacity-0">
-            <h2 className="font-serif font-bold text-4xl md:text-5xl text-foreground mb-8 text-center">
+            <h2 className="font-serif font-bold text-4xl md:text-5xl text-foreground mb-16 text-center">
               Who Is This Programme For?
             </h2>
             <Card className="bg-card border-border">
               <CardContent className="p-8 md:p-12">
-                <p className="font-sans text-lg md:text-xl leading-relaxed text-card-foreground">
-                  This programme is designed for ambitious professionals who are ready to take their career to the next
-                  level. Whether you're a recent graduate looking to make your mark, a mid-career professional seeking
-                  strategic guidance, or someone preparing for a significant career transition, this mentorship will
-                  provide you with the tools and insights you need to succeed.
+                <p className="font-sans text-lg md:text-xl leading-relaxed text-card-foreground text-center">
+                  This programme is designed for ambitious students who are ready to accelerate their career to the
+                  next level. It is ideal for those who are looking to invest in themselves, but also want to drive
+                  their own way forward. This is mentorship - you maintain control of your journey. Ideally you are
+                  either studying for GCSEs, A-Levels or are in your 1st year of undergraduate studies, but this is not
+                  essential.
                 </p>
               </CardContent>
             </Card>
@@ -623,7 +580,7 @@ export default function HomePage() {
             </p>
             <Button
               size="lg"
-              className="bg-primary hover:bg-primary/90 text-primary-foreground font-sans font-medium px-8 py-4 text-lg"
+              className="bg-blue-900 hover:bg-blue-800 text-white font-sans font-medium px-8 py-4 text-lg"
               asChild
             >
               <a href="https://forms.gle/toQUXtMfFVkW3L5K9" target="_blank" rel="noopener noreferrer">
