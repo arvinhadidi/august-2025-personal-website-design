@@ -18,9 +18,14 @@ const openSans = Open_Sans({
 })
 
 export const metadata: Metadata = {
-  title: "Personal Website",
-  description: "Professional personal website",
+  title: "SimpleProgress Mentorship",
+  description: "Professional mentorship and guidance",
   generator: "v0.app",
+  icons: {
+    icon: "/images/arvin-profile.jpg",
+    shortcut: "/images/arvin-profile.jpg",
+    apple: "/images/arvin-profile.jpg",
+  },
 }
 
 export default function RootLayout({
