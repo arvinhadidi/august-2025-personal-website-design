@@ -380,11 +380,11 @@ export default function HomePage() {
       </header>
 
       <section className="flex flex-col items-center justify-center min-h-screen px-6 text-center pt-20">
-        <div className="max-w-4xl mx-auto space-y-8">
-          <h1 className="font-serif font-black text-5xl md:text-7xl text-foreground animate-fade-in-down">
+        <div className="max-w-4xl mx-auto space-y-8 w-full">
+          <h1 className="font-serif font-black text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl text-foreground animate-fade-in-down max-w-4x1">
             SimpleProgress Mentorship
           </h1>
-          <p className="font-sans text-xl md:text-2xl text-muted-foreground animate-fade-in-down animate-delay-200">
+          <p className="font-sans text-lg sm:text-xl md:text-2xl text-muted-foreground animate-fade-in-down animate-delay-200 w-full">
             Accelerate your career. Stay authentically you.
           </p>
         </div>
@@ -559,10 +559,10 @@ export default function HomePage() {
             <Card className="bg-card border-border">
               <CardContent className="p-8 md:p-12">
                 <p className="font-sans text-lg md:text-xl leading-relaxed text-card-foreground text-center">
-                  This programme is designed for ambitious students who are ready to accelerate their career to the
-                  next level. It is ideal for those who are looking to invest in themselves, but also want to drive
-                  their own way forward. This is mentorship - you maintain control of your journey. Ideally you are
-                  either studying for GCSEs, A-Levels or are in your 1st year of undergraduate studies, but this is not
+                  This programme is designed for ambitious students who are ready to accelerate their career to the next
+                  level. It is ideal for those who are looking to invest in themselves, but also want to drive their own
+                  way forward. This is mentorship - you maintain control of your journey. Ideally you are either
+                  studying for GCSEs, A-Levels or are in your 1st year of undergraduate studies, but this is not
                   essential.
                 </p>
               </CardContent>
