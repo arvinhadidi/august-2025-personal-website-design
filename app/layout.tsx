@@ -22,9 +22,9 @@ export const metadata: Metadata = {
   description: "Professional mentorship and guidance",
   generator: "v0.app",
   icons: {
-    icon: "/images/arvin-profile.jpg",
-    shortcut: "/images/arvin-profile.jpg",
-    apple: "/images/arvin-profile.jpg",
+    icon: "/favicon.png",
+    shortcut: "/favicon.png",
+    apple: "/favicon.png",
   },
 }
 
