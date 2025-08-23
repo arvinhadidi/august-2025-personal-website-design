@@ -379,12 +379,12 @@ export default function HomePage() {
         </div>
       </header>
 
-      <section className="flex flex-col items-center justify-center min-h-screen px-6 text-center pt-20">
+      <section className="flex flex-col items-center justify-center min-h-screen px-4 text-center pt-20">
         <div className="max-w-4xl mx-auto space-y-8 w-full">
-          <h1 className="font-serif font-black text-3xl sm:text-4xl md:text-5xl lg:text-6xl xl:text-7xl text-foreground animate-fade-in-down w-full">
+          <h1 className="font-serif font-black text-4xl sm:text-5xl md:text-6xl lg:text-7xl xl:text-8xl text-foreground animate-fade-in-down w-full leading-tight">
             SimpleProgress Mentorship
           </h1>
-          <p className="font-sans text-lg sm:text-xl md:text-2xl text-muted-foreground animate-fade-in-down animate-delay-200 w-full">
+          <p className="font-sans text-xl sm:text-2xl md:text-3xl text-muted-foreground animate-fade-in-down animate-delay-200 w-full">
             Accelerate your career. Stay authentically you.
           </p>
         </div>
